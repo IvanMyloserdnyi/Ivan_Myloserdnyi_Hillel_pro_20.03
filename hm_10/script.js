@@ -63,15 +63,17 @@ for (let i = 1;i<=x; i++) {
     if(x%i !== 0) continue;
     ninthStr += ',' + i;
 }
-alert('ninth: ' + ninthStr.slice(1))
+alert(`ninth(number is ${x}): ` + ninthStr.slice(1))
 
 /*10*/
 let tenthStr = '';
+let count = 0
 for (let i = 2;i<=x; i+=2) {
     if(x%i !== 0) continue;
     tenthStr += ',' + i;
+    count +=1
 }
-alert('tenth: ' + tenthStr.slice(1))
+alert(`tenth(number is ${x}): count:${count} (${tenthStr.slice(1)})`)
 
 /*11*/
 let eleventhStr = 0;
@@ -79,7 +81,7 @@ for (let i = 2;i<=x; i+=2) {
     if(x%i !== 0) continue;
     eleventhStr +=i;
 }
-alert('eleventh: ' + eleventhStr)
+alert(`eleventh(number is ${x}): ` + eleventhStr)
 
 /*12*/
 let table = ''
