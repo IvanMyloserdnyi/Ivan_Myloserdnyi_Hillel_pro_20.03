@@ -3,6 +3,19 @@ let count = 30;
 for (let i = 1; i < count; i++) {
     array.push(i)
 }
-document.write(`Default array: ${array}<br>`)
+function sortMyArray(a,b) {
+    if (a>b) {
+        return -1
+    }
+    else if (b>a) {
+        return 1
+    }
+    else {
+        return 0
+    }
+}
+
+console.log(array.sort(sortMyArray))
+console.log(`Default array: ${array}<br>`)
 array.splice(1, 3);
-document.write(`Ref array: ${array}`)
+console.log(`Ref array: ${array}`)
