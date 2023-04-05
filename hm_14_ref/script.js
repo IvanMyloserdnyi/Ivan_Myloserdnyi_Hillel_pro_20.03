@@ -55,18 +55,19 @@ let users = [
     }
 ]
 
-let userWhoseBalanceMore = [];
-let usersPhone = []
-let sum = 0
-for (let user of users) {
-    let balance = Number(user["balance"].replace(/[^0-9.]/g, ''))
-    sum +=balance*100
-    if (balance > 2000) {
-        userWhoseBalanceMore.push(user)
-        usersPhone.push(user.phone)
-    }
-}
-let sumOfBalancesAllUsers = sum/100;
-document.write(`Sum of balances all users:${sumOfBalancesAllUsers}<br>Phones of users which balance more than 2000:${usersPhone}<br>`)
 
-
+let balances = users.map(value => +value.balance.replace(/[^0-9.]/g, ''))
+let total = balances.reduce(function (total=0,balance) {
+    return total + balance
+}).toFixed(2)
+let usersWhoseBalanceMore = users.filter(value => value.balance.replace(/[^0-9.]/g, '')>2000)
+let phoneOfUsersMore = usersWhoseBalanceMore.map((value) => value['phone'])
+console.log(phoneOfUsersMore)
+console.log(total)
+/*[
+  '+1 (840) 583-3207',
+  '+1 (985) 593-3328',
+  '+1 (995) 591-2478',
+  '+1 (942) 565-3988'
+]
+15803.57*/
