@@ -11,29 +11,60 @@ console.log(average(array))
 //Result: 65.5
 
 //Second task
-/*let x = +prompt('Give me x',20)
+let firstNum = +prompt('Give me x',20)
 let znak = prompt('Znak', '-')
-let y = +prompt('Give me y', 15)
+let secondNum = +prompt('Give me y', 15)
 function doMath(x,znak,y) {
     if (!x||!y) return 'Incorrect number'
-    if (znak !=='-'||znak !=='+'||znak !=='^'||znak !=='/'||znak !=='%'||znak !=='*'||znak.length !==1) return 'Incorrect value'
+    if (znak !=='-'||znak !=='+'||znak !=='^'||znak !=='/'||znak !=='%'||znak !=='*'||znak.length !==1) return 'Incorrect symbol'
     return eval(x + znak.replace('^', '**') + y)
 }
-alert(doMath(x,znak,y))*/
+alert(doMath(firstNum,znak,secondNum))
+
 
 //Third task
 
 function arrayAdd() {
     let array = []
     let quantity = +prompt('How many arrays')
-    for (let i = 0; i<quantity; i++) {
-        array.push([])
-        let quantityOfElements = +prompt(`How many elements in ${i + 1} array`)
-        for (let j = 0;j < quantityOfElements;j++) {
-            let element = prompt(`Point at ${j+1} element`)
-            array[i].push(element)
+    if (!!quantity) {
+        for (let i = 0; i < quantity; i++) {
+            array.push([])
+            let quantityOfElements = +prompt(`How many elements in ${i + 1}st array`)
+            if (!!quantityOfElements) {
+                for (let j = 0; j < quantityOfElements; j++) {
+                    let element = prompt(`Point at ${j + 1}st element`)
+                    array[i].push(element)
+                }
+            } else {
+                alert('Incorrect number')
+                break
+            }
         }
+        console.log(array)
+    } else {
+        alert('Incorrect number')
     }
-    console.log(array)
 }
 arrayAdd()
+
+// Fourth task
+
+let x = prompt('Give string')
+let y = prompt('what to delete')
+let z = x.split(y).join('')
+alert(z)
+function newStr(str, del) {
+    if (typeof(del) === 'object') {
+        for (let i = 0;i < del.length; i++) {
+            str = str.split(del[i]).join('')
+        }
+        console.log(str)
+    }
+    else {
+    str = str.split(del).join('')
+    console.log(str)
+    }
+}
+newStr('pcyktiqn Hqyiclo',['c', 'k', 'q'])
+//Result: pytin Hyilo
