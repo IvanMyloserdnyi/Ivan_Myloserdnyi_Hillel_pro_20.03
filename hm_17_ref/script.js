@@ -40,10 +40,12 @@ function doMath(x,znak,y) {
         case znak === '*': {
             return x*y;
         }
+        default :{
+            alert('Error')
+        }
     }
 }
 alert(doMath(firstNum,znak,secondNum))
-/*
 
 
 //Third task
@@ -92,4 +94,3 @@ function newStr(str, del) {
 }
 newStr('pcyktiqn Hqyiclo',['c', 'k', 'q'])
 //Result: pytin Hyilo
-*/
