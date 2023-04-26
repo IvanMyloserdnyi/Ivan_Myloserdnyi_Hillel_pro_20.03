@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7582d4d6-7f46-46b8-a894-fb8a5299d2f6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../hm_1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_1/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_10/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_10/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_10/.idea/hm_2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_10/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_10/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_10/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_10/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_11/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_11/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_11/.idea/hm_11.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_11/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_11/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_11/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_11/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_12/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_12/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_12/.idea/hm_2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_12/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_12/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_12/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_12/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_13/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_13/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_13/.idea/hm_2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_13/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_13/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_13/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_13/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_13_ref/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_13_ref/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_13_ref/.idea/hm_2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_13_ref/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_13_ref/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_13_ref/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_13_ref/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_14/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_14/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_14/.idea/hm_2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_14/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_14/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_14/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_14/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_14_ref/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_14_ref/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_14_ref/.idea/hm_2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_14_ref/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_14_ref/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_14_ref/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_14_ref/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_15/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_15/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_15/.idea/hm_2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_15/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_15/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_15/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_15/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_15_ref/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_15_ref/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_15_ref/.idea/hm_2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_15_ref/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_15_ref/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_15_ref/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_15_ref/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_16/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_16/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_16/.idea/hm_2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_16/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_16/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_16/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_16/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_17/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_17/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_17/.idea/hm_2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_17/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_17/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_17/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_17/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_17_ref/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_17_ref/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_17_ref/.idea/hm_2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_17_ref/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_17_ref/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_17_ref/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_17_ref/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_2/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_2/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_20/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_20/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_20/.idea/hm_2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_20/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_20/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_20/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_20/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_4/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_4/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_4/.idea/hm_2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_4/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_4/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_4/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_4/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_5/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_5/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_5/.idea/hm_2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_5/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_5/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_5/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_5/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_6/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_6/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_6/.idea/hm_2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_6/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_6/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_6/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_6/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_7/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_7/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_7/.idea/hm_2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_7/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_7/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_7/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_7/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_8/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_8/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_8/.idea/hm_2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_8/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_8/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_8/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_8/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_9/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_9/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_9/.idea/hm_2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_9/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_9/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_9/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_9/script.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2Ns12rz2geHWrCkOSOZpaXFIeql" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7582d4d6-7f46-46b8-a894-fb8a5299d2f6" name="Changes" comment="" />
+      <created>1680437775688</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680437775688</updated>
+      <workItem from="1680437778250" duration="1815000" />
+      <workItem from="1680439642754" duration="38000" />
+      <workItem from="1680440152555" duration="7482000" />
+      <workItem from="1680517640129" duration="7440000" />
+      <workItem from="1680530957673" duration="621000" />
+      <workItem from="1680714823725" duration="3244000" />
+      <workItem from="1680720287928" duration="120000" />
+      <workItem from="1680784290890" duration="1096000" />
+      <workItem from="1680785572036" duration="2115000" />
+      <workItem from="1680795251997" duration="6332000" />
+      <workItem from="1680804268054" duration="6665000" />
+      <workItem from="1680812112858" duration="596000" />
+      <workItem from="1681314285804" duration="199000" />
+      <workItem from="1681314518715" duration="6189000" />
+      <workItem from="1681743067371" duration="88000" />
+      <workItem from="1682168821766" duration="1614000" />
+      <workItem from="1682518136649" duration="3363000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
