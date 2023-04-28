@@ -26,41 +26,44 @@ class SuperMath {
     }
 
     doMath() {
+        const x = this.obgect.x
+        const y = this.obgect.y
+        const znak = this.obgect.znak
         switch (true) {
-            case isNaN(this.obgect.x) || isNaN(this.obgect.y): {
+            case isNaN(x) || isNaN(y): {
                 alert('Incorrect number');
                 break
             }
-            case this.obgect.x === 0 && this.obgect.y === 0 && this.obgect.znak === '/': {
+            case x === 0 && y === 0 && znak === '/': {
                 alert('Нуль на нуль ділити неможна')
                 break
             }
-            case((this.obgect.znak !== '-' && this.obgect.znak !== '+' && this.obgect.znak !== '^' && this.obgect.znak !== '/' && this.obgect.znak !== '%' && this.obgect.znak !== '*') || this.obgect.znak.length !== 1) : {
+            case((znak !== '-' && znak !== '+' && znak !== '^' && znak !== '/' && znak !== '%' && znak !== '*') || znak.length !== 1) : {
                 alert('Incorrect symbol');
                 break
             }
-            case this.obgect.znak === '-': {
-                alert(`${this.obgect.x}${this.obgect.znak}${this.obgect.y}=${this.obgect.x - this.obgect.y}`);
+            case znak === '-': {
+                alert(`${x}${znak}${y}=${x - y}`);
                 break
             }
-            case this.obgect.znak === '+': {
-                alert(`${this.obgect.x}${this.obgect.znak}${this.obgect.y}=${this.obgect.x + this.obgect.y}`);
+            case znak === '+': {
+                alert(`${x}${znak}${y}=${x + y}`);
                 break
             }
-            case this.obgect.znak === '^': {
-                alert(`${this.obgect.x}${this.obgect.znak}${this.obgect.y}=${this.obgect.x ** this.obgect.y}`);
+            case znak === '^': {
+                alert(`${x}${znak}${y}=${x ** y}`);
                 break
             }
-            case this.obgect.znak === '/': {
-                alert(`${this.obgect.x}${this.obgect.znak}${this.obgect.y}=${this.obgect.x / this.obgect.y}`);
+            case znak === '/': {
+                alert(`${x}${znak}${y}=${x / y}`);
                 break
             }
-            case this.obgect.znak === '%': {
-                alert(`${this.obgect.x}${this.obgect.znak}${this.obgect.y}=${this.obgect.x % this.obgect.y}`);
+            case znak === '%': {
+                alert(`${x}${znak}${y}=${x % y}`);
                 break
             }
-            case this.obgect.znak === '*': {
-                alert(`${this.obgect.x}${this.obgect.znak}${this.obgect.y}=${this.obgect.x * this.obgect.y}`);
+            case znak === '*': {
+                alert(`${x}${znak}${y}=${x * y}`);
                 break
             }
             default : {
