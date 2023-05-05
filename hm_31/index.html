@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<style>
+    .form {
+        display: flex;
+        flex-direction: column;
+        width: 500px;
+    }
+    td{
+        border: 1px solid black;
+    }
+</style>
+<body>
+<form class="form">
+    <label>Name</label>
+    <input type="text" name="Name">
+    <label>Surname</label>
+    <input type="text" name="Surname">
+    <label>Date of birth</label>
+    <input type="number" name="Date_Of_Birth">
+    <label>Gender</label>
+    <div>
+        <input type="radio"  name="Gender" value="Male" checked>
+        <label>Male</label>
+    </div>
+    <div>
+        <input type="radio"  name="Gender" value="Female">
+        <label>Female</label>
+    </div>
+    <label for="city">City</label>
+    <select id="City" name="City">
+        <option value="Odesa" selected>Odesa</option>
+        <option value="Lviv">Lviv</option>
+        <option value="Kyiv">Kyiv</option>
+    </select>
+    <label>Address</label>
+    <input type="text" name="Address">
+    <label>Languages</label>
+    <div>    <input type="checkbox" id="language1" name="LanguageUkrainian" value="true">
+        <label for="language1">Ukrainian</label><br>
+    </div>
+    <div>
+        <input type="checkbox" id="language2" name="LanguageEnglish" value="True">
+        <label for="language2">English</label><br>
+    </div>
+    <div>
+        <input type="checkbox" id="language3" name="LanguageSpanish" value="True">
+        <label for="language3">Spanish</label><br>
+    </div>
+    <button class="sendBtn" type="submit">
+        Save
+    </button>
+</form>
+<table id="table"></table>
+</body>
+<script src="script.js"></script>
+</html>
