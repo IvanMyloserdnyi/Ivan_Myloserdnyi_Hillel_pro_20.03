@@ -20,7 +20,6 @@ function createForm() {
     </select>
     <input type="number" name="quantity" id="quantity" value="1">
     <button type="submit">Order</button> `
-
 }
 
 form.innerHTML = createForm()
@@ -35,7 +34,7 @@ cleanOrders.addEventListener('click', function () {
 
 form.addEventListener('submit', function (e) {
     e.preventDefault();
-    let numOfOrder = Math.round(1 + Math.random() * (1000 + 1 - 1))
+    const numOfOrder = Math.round(1 + Math.random() * (1000 + 1 - 1))
     const currentDate = new Date().toLocaleString()
     const formData = new FormData(form)
     const objOrder = {
@@ -47,11 +46,9 @@ form.addEventListener('submit', function (e) {
     }
     orders.push(objOrder)
     localStorage.setItem('orders', JSON.stringify(orders))
-    console.log(orders)
 })
 showOrders.addEventListener('click', function () {
     result.innerHTML = createOrdersListMarkup(orders)
-    console.log(JSON.stringify(orders))
 })
 
 function createOrdersListMarkup(orders) {
@@ -75,12 +72,10 @@ result.addEventListener('click', function (e) {
     if (e.target.nodeName === 'BUTTON') {
         orders.splice(e.target.id, 1)
         localStorage.setItem('orders', JSON.stringify(orders))
-        result.innerHTML = createOrdersListMarkup(orders)
-        orderDetails.classList.add('display_none')
+        result.innerHTML =  orders.length>0? createOrdersListMarkup(orders):''
     }
     if (e.currentTarget.nodeName === 'DIV') {
         orderDetails.classList.remove('display_none')
-        console.log(e.target.id)
     }
 })
 
