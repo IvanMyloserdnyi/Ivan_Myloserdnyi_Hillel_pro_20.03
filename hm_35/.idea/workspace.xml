@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="086dfa93-2bd4-406b-b5d8-33eb930828b4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../hm_32/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hm_32/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hm_32/.idea/hm_2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hm_32/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hm_32/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hm_32/ReadMe.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hm_32/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hm_32/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_34/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hm_34/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_34/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../hm_34/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_34/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../hm_34/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,6 +73,9 @@
       <workItem from="1684344810970" duration="478000" />
       <workItem from="1684360313661" duration="11295000" />
       <workItem from="1684449116625" duration="1397000" />
+      <workItem from="1684513796966" duration="3002000" />
+      <workItem from="1684688111819" duration="1071000" />
+      <workItem from="1684765768270" duration="8641000" />
     </task>
     <servers />
   </component>
