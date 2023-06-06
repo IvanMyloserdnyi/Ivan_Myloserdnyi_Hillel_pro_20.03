@@ -13,6 +13,13 @@ const createPhotos = new Array(10).fill(null).map((_, i) => ({
     url: `https://picsum.photos/id/${i}/200/300`
 }))
 
+function randomNum() {
+    const maxNum = 37.5;
+    const minNum = 36;
+    const symbolsAfterPoint = 4;
+    return (Math.random() * (maxNum - minNum) + minNum).toFixed(symbolsAfterPoint)
+}
+
 fs.writeFileSync('offers.txt', JSON.stringify(createOffers));
 
 http.createServer(function (req, res) {
@@ -55,10 +62,5 @@ http.createServer(function (req, res) {
     console.log('Server start at port 4001')
 })
 
-function randomNum() {
-    const maxNum = 37.5;
-    const minNum = 36;
-    const symbolsAfterPoint = 4;
-    return (Math.random() * (maxNum - minNum) + minNum).toFixed(symbolsAfterPoint)
-}
+
 
