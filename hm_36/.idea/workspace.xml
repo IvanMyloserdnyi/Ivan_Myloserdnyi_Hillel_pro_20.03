@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="086dfa93-2bd4-406b-b5d8-33eb930828b4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../hm_34/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hm_34/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hm_34/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../hm_34/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hm_34/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../hm_34/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_35/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_35/.idea/hm_34.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_35/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_35/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_35/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_35/ReadMe.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_35/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm_35/script.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +29,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectId" id="2P0k1Sk3Z0rAL2LSiI26sS9QId1" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -35,11 +43,18 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/38099/Documents/GitHub/Ivan_Myloserdnyi_Hillel_pro_20.03/hm_30_ref — копия&quot;,
+    &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;19.1.0&quot;,
+    &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;20.2.5&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/38099/Documents/GitHub/Ivan_Myloserdnyi_Hillel_pro_20.03/hm_36&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\38099\Documents\GitHub\Ivan_Myloserdnyi_Hillel_pro_20.03\hm_36" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -76,6 +91,12 @@
       <workItem from="1684513796966" duration="3002000" />
       <workItem from="1684688111819" duration="1071000" />
       <workItem from="1684765768270" duration="8641000" />
+      <workItem from="1684858229693" duration="1549000" />
+      <workItem from="1685289097435" duration="45000" />
+      <workItem from="1685463735071" duration="2122000" />
+      <workItem from="1685634495043" duration="5455000" />
+      <workItem from="1685722807060" duration="1016000" />
+      <workItem from="1685972801037" duration="6465000" />
     </task>
     <servers />
   </component>
